@@ -61,4 +61,4 @@ Example:
 
 For Part 4 specifically also leave a comment explaining how your query is deciding who the strongest trainer is
 
-Once all of that is done, submit your file.
+Once all of that is done, submit your file by saving it in the "answers" directory and commititing it to your fork.
